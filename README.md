@@ -4,12 +4,12 @@
 
 # Titanic Survivors Classification
 
-[![GitHub][GitHub-shield]](https://github.com/lrgto/titantic-survivor-classification)
-[![Contributors][contributors-shield]](https://github.com/lrgto/titantic-survivor-classification/graphs/contributors)
-[![Forks][forks-shield]](https://github.com/lrgto/titantic-survivor-classification/network/members)
-[![Stargazers][stars-shield]](https://github.com/lrgto/titantic-survivor-classification/stargazers)
-[![Issues][issues-shield]](https://github.com/lrgto/titantic-survivor-classification/issues)
-[![License][license-shield]](https://github.com/lrgto/titantic-survivor-classification/blob/main/LICENSE.txt)
+[![GitHub][GitHub-shield]](https://github.com/lrgto/titanic-survivor-classification)
+[![Contributors][contributors-shield]](https://github.com/lrgto/titanic-survivor-classification/graphs/contributors)
+[![Forks][forks-shield]](https://github.com/lrgto/titanic-survivor-classification/network/members)
+[![Stargazers][stars-shield]](https://github.com/lrgto/titanic-survivor-classification/stargazers)
+[![Issues][issues-shield]](https://github.com/lrgto/titanic-survivor-classification/issues)
+[![License][license-shield]](https://github.com/lrgto/titanic-survivor-classification/blob/main/LICENSE.txt)
 
 </div>
 
@@ -20,7 +20,7 @@
   <a href="#license">License</a> •
   <a href="#other-projects">Other Projects</a> •
   <a href="#contact">Contact</a> •
-  <a href="https://github.com/lrgto/titantic-survivor-classification/archive/refs/heads/main.zip">Download</a>
+  <a href="https://github.com/lrgto/titanic-survivor-classification/archive/refs/heads/main.zip">Download</a>
 </p>
 
 <!-- ABOUT THE PROJECT -->
@@ -37,7 +37,7 @@ Python files for a classification model on whether or not a passenger survived t
 
 ### Other Infomation
 
-This is a private repository and is shared for educational purposes. Please feel free to [download](https://github.com/lrgto/titantic-survivor-classification/archive/refs/heads/main.zip) this repo for your own educational needs. For further infomation please direct yourself to the files listed; <br> [License](https://github.com/lrgto/titantic-survivor-classification/blob/main/LICENSE.txt), [Code of Conduct](https://github.com/lrgto/titantic-survivor-classification/blob/main/docs/CODE_OF_CONDUCT.md),  [Contributing](https://github.com/lrgto/titantic-survivor-classification/blob/main/docs/CONTRIBUTING.md), [Changelog](https://github.com/lrgto/titantic-survivor-classification/blob/main/docs/CHANGELOG.md), [Security](https://github.com/lrgto/titantic-survivor-classification/blob/main/docs/SECURITY.md).
+This is a private repository and is shared for educational purposes. Please feel free to [download](https://github.com/lrgto/titanic-survivor-classification/archive/refs/heads/main.zip) this repo for your own educational needs. For further infomation please direct yourself to the files listed; <br> [License](https://github.com/lrgto/titanic-survivor-classification/blob/main/LICENSE.txt), [Code of Conduct](https://github.com/lrgto/titanic-survivor-classification/blob/main/docs/CODE_OF_CONDUCT.md),  [Contributing](https://github.com/lrgto/titanic-survivor-classification/blob/main/docs/CONTRIBUTING.md), [Changelog](https://github.com/lrgto/titanic-survivor-classification/blob/main/docs/CHANGELOG.md), [Security](https://github.com/lrgto/titanic-survivor-classification/blob/main/docs/SECURITY.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +62,7 @@ This is a private repository and is shared for educational purposes. Please feel
 ## License
 Distributed under the CC-BY-SA-4.0: Creative Commons Attribution Share Alike 4.0 International License. 
 
-See [LICENSE.txt](https://github.com/lrgto/titantic-survivor-classification/blob/main/LICENSE.txt) for more information.
+See [LICENSE.txt](https://github.com/lrgto/titanic-survivor-classification/blob/main/LICENSE.txt) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,9 +73,9 @@ See [LICENSE.txt](https://github.com/lrgto/titantic-survivor-classification/blob
 GitHub: [@lrgto](https://github.com/lrgto) &nbsp;&middot;&nbsp; LinkedIn: [@lrgtomaszewski](https://www.linkedin.com/in/lrgtomaszewski/) &nbsp;&middot;&nbsp; Website: [https://lrgto.github.io](https://lrgto.github.io)
 </div>
 
-[contributors-shield]: https://img.shields.io/github/contributors/lrgto/titantic-survivor-classification.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/lrgto/titantic-survivor-classification.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/lrgto/titantic-survivor-classification.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/lrgto/titantic-survivor-classification.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/lrgto/titantic-survivor-classification.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/lrgto/titanic-survivor-classification.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/lrgto/titanic-survivor-classification.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/lrgto/titanic-survivor-classification.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/lrgto/titanic-survivor-classification.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/lrgto/titanic-survivor-classification.svg?style=for-the-badge
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=GitHub&colorB=555
